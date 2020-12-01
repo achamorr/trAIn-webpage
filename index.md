@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Here at trAIn, we are revolutionizing the way training is done in industry. 
 
-You can use the [editor on GitHub](https://github.com/achamorr/trAIn-webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Current onboarding processes either are unpersonalized, unstructured, or require you to sink repetitive amounts of time and money to perfecting them. When an employee decides to leave, a lot of work is left to be done retraining new hires. Here at trAIn we're ready to help you do things differently. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![trAIN-logo](trAIn-logo-1640x512.jpg)
 
-### Markdown
+### Problem
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You've heard the problems with onboarding before:
+- Hiring manager has to reinvent the wheel for every new hire.
+- Training outcomes are uneven and hard to measure.
+- New employees could benefit from past employees knowledge, but it is often not available. 
 
-```markdown
-Syntax highlighted code block
+### Solution 
+A web platform where managers, past and present employees collaborate to create great training plans, prioritizing: 
 
-# Header 1
-## Header 2
-### Header 3
+- Customization of the onboarding process
+- Measure Onboarding Success
+- Increase Collaboration
+- Keep Knowledge within your Company
 
-- Bulleted
-- List
+We address these problems by helping your managers collaborate to develop training plans for each role. We give you easy customization and creation of training materials through an easy-to-use dashboard, making the creation and management of onboarding plans easy. We help you measure onboarding success by prioritizing goals, progress monitoring, and personalization of training materials to address employees most imminent onboarding problems. We increase collaboration and slash the need for duplicated efforts by allowing you to reuse training templates across similar employees, and similar roles. We keep knowledge within your company by helping employees leave on-the-job tips, resources, and problem-resolution details for future employees to access. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### The Team
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Andrea](andrea.PNG) ![Jake](jake.PNG) ![Warren](warren.PNG) ![Michael](michael.PNG) ![Kevin](kevin.PNG)
 
-### Jekyll Themes
+[Andrea Chamorro](https://www.linkedin.com/in/andrea-chamorroq/)
+[Jake Luoma](https://www.linkedin.com/in/jake-luoma-6a3663a2/)
+Warren Fulton
+[Michael Doan](https://www.linkedin.com/in/michaelvdoan/)
+[Kevin Huynh](https://www.linkedin.com/in/kevin-huynh-38a543194/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/achamorr/trAIn-webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact and Demos
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check this page often as we develop more details of this process. We are currently looking for beta-testers of our product!
+
+To become a beta tester, or just to say hi, drop us a note:
+
+anch9699@colorado.edu or our LinkedIn's
+
