@@ -25,12 +25,12 @@ We address these problems by helping your managers collaborate to develop traini
 
 ### The Team
 
-![Andrea](andrea.PNG) ![Jake](jake.PNG) ![Warren](warren.PNG) ![Michael](michael.PNG) ![Kevin](kevin.PNG)
+![Andrea](andrea.png) ![Jake](jake.png) ![Warren](warren.png) ![Michael](michael.png) ![Kevin](kevin.png)
 
-[Andrea Chamorro](https://www.linkedin.com/in/andrea-chamorroq/)
-[Jake Luoma](https://www.linkedin.com/in/jake-luoma-6a3663a2/)
-Warren Fulton
-[Michael Doan](https://www.linkedin.com/in/michaelvdoan/)
+Left to right: [Andrea Chamorro](https://www.linkedin.com/in/andrea-chamorroq/), 
+[Jake Luoma](https://www.linkedin.com/in/jake-luoma-6a3663a2/), 
+Warren Fulton, 
+[Michael Doan](https://www.linkedin.com/in/michaelvdoan/), 
 [Kevin Huynh](https://www.linkedin.com/in/kevin-huynh-38a543194/)
 
 
